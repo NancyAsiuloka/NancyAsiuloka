@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NancyAsiuloka
 - 👀 I’m interested in building APIs for Web/Mobile applications.
-- 🌱 I’m currently learning Node.js, Typescript, Graphql, Mongoose, MySQL, and Express.js.
+- 🌱 I'm comfortable with Node.js, Express, Mongoose, TypeScript, and MySQL.
+- 🚀 I'm learning NestJS, AWS, PostgreSQL, and TypeORM.  
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 Reach out to me on nancyasiuloka@gmail.com
 
